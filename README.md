@@ -11,7 +11,9 @@
 
 <h1>Hi there 👋 I'm Eman Fatima</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+%40+COMSATS;C+%7C+C%2B%2B+Programmer;Learning+Python+%7C+JavaScript+%7C+React+%7C+Node.js;Data+Structures+%26+Algorithms+Enthusiast;Building+Strong+Software+Engineering+Fundamentals;Always+Learning+%7C+Always+Improving+🚀" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=700&amp;size=25&amp;pause=1200&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Software+Engineering+Student;C+%7C+C%2B%2B+Programmer;Learning+Python+%7C+JavaScript+%7C+React+%7C+Node.js;Data+Structures+%26+Algorithms+Enthusiast;Building+Strong+Software+Engineering+Fundamentals;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+</div>
 
 <br><br>
 
@@ -378,16 +380,16 @@ Future learning projects related to Python, Artificial Intelligence, Machine Lea
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=code-by-eman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Eman's GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-eman&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=450" alt="Eman's Top Languages" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=code-by-eman&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" alt="Eman's GitHub Stats" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=code-by-eman&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=8&amp;card_width=450" alt="Eman's Top Languages" />
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=code-by-eman&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=code-by-eman&amp;theme=radical&amp;hide_border=true&amp;border_radius=10" alt="GitHub Streak" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-by-eman&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-by-eman&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -400,7 +402,7 @@ Future learning projects related to Python, Artificial Intelligence, Machine Lea
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=code-by-eman&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=code-by-eman&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;row=1&amp;column=6" alt="GitHub Trophies" />
 
 </div>
 
